@@ -1,5 +1,3 @@
 package com.hei.wallet.model;
 
-public class Wallet {
-
-}
+public class Wallet {}
